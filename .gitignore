@@ -1,0 +1,4 @@
+.vscode/
+.DS_Store
+*.key
+node_modules
